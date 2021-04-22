@@ -1,5 +1,4 @@
 # woosgithub
-<<<<<<< HEAD
-# �浹�׽�Ʈ
+# 충돌해결
 # java, spring
 
